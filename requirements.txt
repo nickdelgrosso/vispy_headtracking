@@ -1,0 +1,3 @@
+vispy
+numpy
+opencv-python
